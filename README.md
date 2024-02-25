@@ -28,6 +28,14 @@ This includes ASP .Net Full Stack Foundation (module 01 ):
       - Loops
       - Jump statements
       - Quiz 
-# -Week#02 Notes
+# -Week#02 Notes ( C# PF)
 # -Week#02 Quiz( C# PF)
 ------------------------------------------------------------------
+## -Topics covers 
+   -Introduction to Arrays
+   
+
+# -Week#02 Notes( C# PF)
+# -Week#02 Quiz( C# OOP)
+------------------------------------------------------------------
+
