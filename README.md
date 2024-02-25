@@ -32,7 +32,7 @@ This includes ASP .Net Full Stack Foundation (module 01 ):
 # -Week#02 Quiz( C# PF)
 ------------------------------------------------------------------
 ## -Topics covers 
-   -Introduction to Arrays
+    -Introduction to Arrays
    
 
 # -Week#02 Notes( C# PF)
