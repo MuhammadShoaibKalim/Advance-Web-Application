@@ -33,8 +33,20 @@ This includes ASP .Net Full Stack Foundation (module 01 ):
 ------------------------------------------------------------------
 ## -Topics covers 
     -Introduction to Arrays
-   
-
+     -Types(Single, multi-dimensional and Jagged Array )
+     -Manipulating of Array
+    -Introduction to String 
+     -strings and String Method
+     -Manipulating String 
+     -Quiz
+    -Object Oriented Programming Concepts
+     -Class and Object
+      -Method and Properties
+      -Four pillars of OOP:
+      1- Encapsulation 2- Abstraction
+      3- Inheritance   4- Polymorphism
+      -Constructor
+      -Quiz
 # -Week#02 Notes( C# PF)
 # -Week#02 Quiz( C# OOP)
 ------------------------------------------------------------------
