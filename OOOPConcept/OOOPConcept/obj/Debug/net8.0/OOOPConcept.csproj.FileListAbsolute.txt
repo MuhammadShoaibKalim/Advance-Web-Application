@@ -1,0 +1,14 @@
+D:\Mern Peojects\Dot Net Framwork Project\OOOPConcept\OOOPConcept\bin\Debug\net8.0\OOOPConcept.exe
+D:\Mern Peojects\Dot Net Framwork Project\OOOPConcept\OOOPConcept\bin\Debug\net8.0\OOOPConcept.deps.json
+D:\Mern Peojects\Dot Net Framwork Project\OOOPConcept\OOOPConcept\bin\Debug\net8.0\OOOPConcept.runtimeconfig.json
+D:\Mern Peojects\Dot Net Framwork Project\OOOPConcept\OOOPConcept\bin\Debug\net8.0\OOOPConcept.dll
+D:\Mern Peojects\Dot Net Framwork Project\OOOPConcept\OOOPConcept\bin\Debug\net8.0\OOOPConcept.pdb
+D:\Mern Peojects\Dot Net Framwork Project\OOOPConcept\OOOPConcept\obj\Debug\net8.0\OOOPConcept.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mern Peojects\Dot Net Framwork Project\OOOPConcept\OOOPConcept\obj\Debug\net8.0\OOOPConcept.AssemblyInfoInputs.cache
+D:\Mern Peojects\Dot Net Framwork Project\OOOPConcept\OOOPConcept\obj\Debug\net8.0\OOOPConcept.AssemblyInfo.cs
+D:\Mern Peojects\Dot Net Framwork Project\OOOPConcept\OOOPConcept\obj\Debug\net8.0\OOOPConcept.csproj.CoreCompileInputs.cache
+D:\Mern Peojects\Dot Net Framwork Project\OOOPConcept\OOOPConcept\obj\Debug\net8.0\OOOPConcept.dll
+D:\Mern Peojects\Dot Net Framwork Project\OOOPConcept\OOOPConcept\obj\Debug\net8.0\refint\OOOPConcept.dll
+D:\Mern Peojects\Dot Net Framwork Project\OOOPConcept\OOOPConcept\obj\Debug\net8.0\OOOPConcept.pdb
+D:\Mern Peojects\Dot Net Framwork Project\OOOPConcept\OOOPConcept\obj\Debug\net8.0\OOOPConcept.genruntimeconfig.cache
+D:\Mern Peojects\Dot Net Framwork Project\OOOPConcept\OOOPConcept\obj\Debug\net8.0\ref\OOOPConcept.dll
